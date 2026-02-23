@@ -1,6 +1,6 @@
 # Introduction
 
-In this homework assignment, you will implement a circular buffer for characters. It gives you practice in using a smart pointer and a commonly used data structure.
+In this homework assignment, you will implement a circular buffer for characters. It provides you practice with smart pointers, C++ strings, and a widely used data structure.
 
 # Background: Circular Buffer
 
