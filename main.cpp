@@ -12,7 +12,7 @@ int main() {
   create(c);
 
   // receive a message for the circular buffer
-  getline(cin >> ws, msg);
+  getline(cin >> ws, msg); // ws (original name = std::ws) discards all leading whitespace characters
 
   // put each character of the message into the circular buffer
   cout << endl;
